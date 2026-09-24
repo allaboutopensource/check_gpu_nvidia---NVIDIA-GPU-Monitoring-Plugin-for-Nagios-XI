@@ -172,6 +172,4 @@ Infrastructure Platform Engineering
 
 ## Links
 
-- GitHub: https://github.com/yourorg/check_gpu_nvidia
-- Issues: https://github.com/yourorg/check_gpu_nvidia/issues
 - Nagios Exchange: https://exchange.nagios.org# check_gpu_nvidia---NVIDIA-GPU-Monitoring-Plugin-for-Nagios-XI
