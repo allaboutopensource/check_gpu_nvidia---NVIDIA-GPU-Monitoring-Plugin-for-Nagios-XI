@@ -62,9 +62,3 @@ nvidia, gpu, graphics, cuda, nvidia-smi, ncpa, nrpe, perfdata, json, temperature
 
 ## License
 MIT License
-
-## Project URL
-https://github.com/yourorg/check_gpu_nvidia
-
-## Screenshots
-(Attach sample output screenshots showing Nagios service status, perfdata graphs in Grafana/PNP4Nagios, and JSON output)
